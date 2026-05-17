@@ -1,4 +1,3 @@
-
 ![GilangRamadan11](img/github-header-banner%20(1).png)
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
